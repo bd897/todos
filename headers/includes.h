@@ -3,7 +3,9 @@
 
 #include <string>
 #include <stdlib.h>
+#include <sstream>
 #include <iostream>
 #include <fstream>
+#include <ctime>
 
 #endif
